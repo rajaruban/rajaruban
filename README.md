@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajaruban
-- 👀 I’m interested in Coding & Building interesting systems
+- 👀 I enjoy Coding & Building interesting systems
 - 🌱 I’m currently learning Vue JS
-- 💞️ I’m looking to collaborate on Vue projects
+- 💞️ I’m looking to collaborate on any projects related to web systems development
 - 📫 Reach my linked profile @rajarubanrajindram
 
 <!---
