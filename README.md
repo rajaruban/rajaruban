@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajaruban
 - 👀 I enjoy Coding & Building interesting systems
 - 🌱 I’m currently learning Vue JS
-- 💞️ I’m looking to collaborate on any projects related to web systems development
+- 💞️ I’m looking to collaborate on any projects related to Vue or React!
 - 📫 Reach my LinkedIn profile <a href="https://www.linkedin.com/in/rajaruban-rajindram">here<a>!
 - 🌐 Visit my portfolio <a href="https://rajaruban.github.io/portfolio/raj-portfolio.html">here</a>!
 
